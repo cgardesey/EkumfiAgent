@@ -30,6 +30,8 @@ The example project requires the following configuration:
 - Minimum SDK version: 21
 - Target SDK version: 30
 
+You may need to update these values in the `build.gradle` file based on your project requirements.
+
 
 ## Technologies Used
 
@@ -39,7 +41,6 @@ The example project requires the following configuration:
 - Glide (for image loading)
 - Realm (for local data storage)
 
-You may need to update these values in the `build.gradle` file based on your project requirements.
 
 If you're looking to integrate with the backend api, make sure to check out the  [backend repo](https://github.com/cgardesey/trader_apps_backend) for detailed instructions.
 
