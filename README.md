@@ -1,10 +1,10 @@
-# ProductTraderAgent
+# Ekumfi Juice Agent App
 
-This is an Android app developed for sales agents on behalf of the shops shops they work for. 
+This Android application allows Ekumfi agents to facilitate the trading of Ekumfi Juice products on behalf of shops. With this app, agents can manage shop inventory, process orders, and enhance the overall trading experience for Ekumfi Juice retailers.
 
 ## Features
 
-- **Product Catalog**: Browse and search for products available for sale.
+- **Product Catalog**: Browse for products available for sale.
 - **Customer Management**: Manage customer information, including contact details and purchase history.
 - **Order Creation**: Create new orders, add products, and calculate totals.
 - **Payment Processing**: Accept payments with a safe and secure payment process
@@ -42,8 +42,13 @@ You may need to update these values in the `build.gradle` file based on your pro
 - Realm (for local data storage)
 
 
-If you're looking to integrate with the backend api, make sure to check out the  [backend repo](https://github.com/cgardesey/product_trader_apps_backend) for detailed instructions.
+If you're looking to integrate with the backend api, make sure to check out the [backend repo](https://github.com/cgardesey/ekumfi_juice_backend) for detailed instructions.
+
+## Contributing
+
+I welcome contributions to enhance this project. If you find any bugs or have feature suggestions, please open an issue or submit a pull request. Make sure to follow the existing coding style and conventions.
 
 ## License
 
-ProductTraderAgent project is licensed under the[MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
+
